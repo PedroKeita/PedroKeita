@@ -1,8 +1,4 @@
 # Welcome 🖐️
-
-<img align="right" height="250" alt="coding-time" src="9Utr.gif">
-
-
 # 💻 Tech Stack
   ##    Developer
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
@@ -19,7 +15,7 @@
 
 ## Database software
  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-
+<img align="right" height="250" alt="coding-time" src="9Utr.gif">
 # 📊 GitHub Stats:
 
 
@@ -27,6 +23,8 @@
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroKeita&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+  
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroKeita&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
