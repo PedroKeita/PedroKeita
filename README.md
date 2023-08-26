@@ -2,7 +2,8 @@
 
 # 💻 Tech Stack
 <img align="right" height="250" alt="coding-time" src="9Utr.gif">
-  ##    Developer
+
+## Developer
   
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
  ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white)
