@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Pedro Lucas! Fullstack developer from Brazil.
 
-  - 🌱 I’m currently studying Analysis and systems development at Unifor <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying Analysis and systems development at Unifor 
 
   - 🔭 I'm looking for my first job opportunity. My dream is to one day work with Back End development.
 </p>
