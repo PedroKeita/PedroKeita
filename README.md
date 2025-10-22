@@ -1,104 +1,106 @@
-<!-- Título -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World! 👋</h1></summary>
-</div>
+<table align="right">
+  <tr>
+    <td>
+      <a href="#">:us: English</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#">:brazil: Português</a>
+    </td>
+  </tr>
+</table>
 
-<!-- Apresentação -->
-<p align="center">
-  👋 Hi, I'm <strong>Pedro Lucas</strong> — a <strong>Back-End Developer</strong> from Brazil 🇧🇷  
-</p>
-
-<p align="center">
-  🎓 I'm currently studying <strong>Software Engineering</strong> at <em>Jala University (EAD)</em> and <strong>Analysis and Systems Development</strong> at <em>UNIFOR</em>.  
-  💻 I also completed a <strong>Technical course in Informatics</strong> at IFCE.  
-</p>
-
-<p align="center">
-  🚀 I'm passionate about building efficient, scalable systems and exploring new technologies in software architecture and back-end development.  
-</p>
+<h2></h2>
+<header> 
+	<div>
+		<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=45&duration=3000&pause=700&color=00E5FF&center=true&vCenter=true&random=false&width=1000&height=85&lines=Hello%2C+World!;Welcome+to+my+GitHub+👋" alt="Typing SVG"/>
+	</div>
+	<section align='left'>
+		<img src="https://komarev.com/ghpvc/?username=PedroKeita&label=Profile%20views&color=00E5FF&style=flat" alt="Profile views" />
+		<img src="https://img.shields.io/github/stars/PedroKeita?affiliations=OWNER%2CCOLLABORATOR&color=00E5FF&style=flat" alt="Stars"/>
+	</section>	 
+</header>
 
 ---
 
-<!-- Mais sobre mim -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+### 👋 Hey there! I'm Pedro Lucas  
+💻 **Back-End Developer | Java | TypeScript | Node.js**
 
-  - 🧠 I’m 20 years old and currently focused on Back-End development.  
-  - 💬 I have solid knowledge in **Java**, **TypeScript**, and **Node.js**.  
-  - 🔍 I enjoy understanding the full software development cycle — from requirement gathering to deployment.  
-  - ⚙️ I like exploring **AI**, **automation**, and **system integration**.  
-  - 📚 Always learning and improving my skills through projects and research.  
-</details>
+I'm a 20-year-old developer passionate about building scalable back-end systems and solving real-world problems through software.  
+Currently, I’m pursuing **Software Engineering** at *Jala University* and **Analysis and Systems Development** at *UNIFOR*.  
+I’m also a certified **Computer Technician** by *IFCE*.
+
+---
+
+### 🚀 About Me
+- 💡 I have solid knowledge in **Back-End development**, **Java**, and **software architecture**  
+- 🧠 Experienced with **TypeScript**, **Node.js**, and **Spring Boot**  
+- 🧩 Skilled in **requirement analysis**, **API design**, and **project structuring**  
+- ⚙️ I enjoy working with **databases** (MySQL, PostgreSQL, MongoDB)  
+- 🧰 Familiar with **Git**, **GitLab**, **Postman**, **Figma**, and **Linux**  
+- 📚 Always improving and exploring new technologies in the field of AI and system integration  
 
 ---
 
 ## 🧠 Tech Stack
 
-### 💻 **Programming Languages**
-<p>
-  <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-</p>
+<table>
+<tr> 
+<td>
 
-### 🧩 **Frameworks & Libraries**
-<p>
-  <img alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-</p>
+### 💻 Programming Languages  
+<img src="https://skillicons.dev/icons?i=java,typescript,javascript,python,c,cpp&perline=6" />
 
-### 🗄️ **Databases**
-<p>
-  <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-</p>
+### ⚙️ Frameworks & Tools  
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,git,postman,figma,linux,windows&perline=6" />
 
-### 🧰 **Tools & Platforms**
-<p>
-  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
-  <img alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
-  <img alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  <img alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
-</p>
+</td>
+<td>
 
-### 🧠 **Organization & Notes**
-<p>
-  <img alt="Obsidian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
-</p>
+### 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=6" />
+
+### ☁️ Others  
+<img src="https://skillicons.dev/icons?i=gitlab,docker,vscode,obsidian&perline=6" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroKeita&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroKeita&layout=compact&theme=gotham)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroKeita&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroKeita&layout=compact&langs_count=8&theme=react"/>
+</div>
 
 ---
 
 ## 🧩 Featured Projects
-
-- 🔹 [**MedicalInsights API**](https://github.com/PedroKeita/MedicalInsights-API) — API for medical data analysis with AI integration using Node.js and TypeScript.  
-- 🔹 [**ML Vivencial**](https://github.com/PedroKeita/ML-Vivencial) — Machine learning project for signal and image classification using Python.
+- 🩺 **MedicalInsights API** — Intelligent API built with Node.js + TypeScript, integrating AI models for medical data analysis  
+- 🤖 **ML Vivencial** — Machine Learning project in Python focused on supervised and unsupervised learning (EMG signal classification and clustering)
 
 ---
 
-## 🌎 Connect with Me
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lucas-farias-1835291b3/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroKeita)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolucas300805@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroKeita)
+[![Email](https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolucasfarias300@gmail.com)
 
 ---
 
-<p align="center">
-  💬 “Coding is not just about syntax — it’s about solving problems elegantly.”  
-</p>
+<table align='center'>
+  <tr>
+    <td>
+      <img src="https://github.com/DevSaLLein/DevSaLLein/blob/output/github-contribution-grid-snake-dark.svg" width="100%" >
+    </td>
+  </tr>
+</table>
+
+<footer>
+  <img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=false&section=footer&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0"/>
+</footer>
