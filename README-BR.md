@@ -14,36 +14,36 @@
 <h2></h2>
 <header> 
 	<div>
-		<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=45&duration=3000&pause=700&color=00E5FF&center=true&vCenter=true&random=false&width=1000&height=85&lines=Olá%2C+Mundo!;Bem-vindo+ao+meu+GitHub+👋" alt="Typing SVG"/>
+		<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=45&duration=3000&pause=700&color=00FF88&center=true&vCenter=true&random=false&width=1000&height=85&lines=Olá,+Mundo!;Bem-vindo+ao+meu+GitHub+👋" alt="Typing SVG"/>
 	</div>
 	<section align='left'>
-		<img src="https://komarev.com/ghpvc/?username=PedroKeita&label=Visualizações%20de%20perfil&color=00E5FF&style=flat" alt="Visualizações de perfil" />
-		<img src="https://img.shields.io/github/stars/PedroKeita?affiliations=OWNER%2CCOLLABORATOR&color=00E5FF&style=flat" alt="Stars"/>
+		<img src="https://komarev.com/ghpvc/?username=PedroKeita&label=Visualizações%20do%20Perfil&color=00FF88&style=flat" alt="Profile views" />
+		<img src="https://img.shields.io/github/stars/PedroKeita?affiliations=OWNER%2CCOLLABORATOR&color=00FF88&style=flat" alt="Stars"/>
 	</section>	 
 </header>
 
 ---
 
-### 👋 Olá! Eu sou o Pedro Lucas  
+### 👋 Olá! Eu sou Pedro Lucas  
 💻 **Desenvolvedor Back-End | Java | TypeScript | Node.js**
 
-Tenho 20 anos e sou apaixonado por desenvolvimento de software e soluções escaláveis.  
-Atualmente curso **Engenharia de Software** na *Jala University* e **Análise e Desenvolvimento de Sistemas** na *UNIFOR*.  
-Sou também **Técnico em Informática** formado pelo *IFCE*.
+Tenho 20 anos e sou apaixonado por desenvolver sistemas back-end escaláveis e resolver problemas reais através da programação.  
+Atualmente, estudo **Engenharia de Software** na *Jala University* e **Análise e Desenvolvimento de Sistemas** na *UNIFOR*.  
+Sou também técnico em informática certificado pelo *IFCE*.
 
 ---
 
-### 🚀 Sobre mim
-- 💡 Sólido conhecimento em **desenvolvimento Back-End**, **Java** e **arquitetura de software**  
+### 🚀 Sobre Mim
+- 💡 Possuo conhecimento sólido em **desenvolvimento Back-End**, **Java** e **arquitetura de software**  
 - 🧠 Experiência com **TypeScript**, **Node.js** e **Spring Boot**  
-- 🧩 Habilidade em **levantamento de requisitos**, **design de APIs** e **estruturação de projetos**  
-- ⚙️ Experiência com **bancos de dados** como **MySQL**, **PostgreSQL** e **MongoDB**  
+- 🧩 Habilidade em **levantamento de requisitos**, **desenho de APIs** e **estruturação de projetos**  
+- ⚙️ Trabalho com **bancos de dados** (MySQL, PostgreSQL, MongoDB)  
 - 🧰 Familiaridade com **Git**, **GitLab**, **Postman**, **Figma** e **Linux**  
-- 📚 Sempre aprendendo novas tecnologias nas áreas de **IA e integração de sistemas**
+- 📚 Busco sempre aprimorar meus conhecimentos e explorar novas tecnologias, incluindo soluções de IA e integração de sistemas  
 
 ---
 
-## 🧠 Tecnologias
+## 🧠 Tech Stack
 
 <table>
 <tr> 
@@ -52,7 +52,7 @@ Sou também **Técnico em Informática** formado pelo *IFCE*.
 ### 💻 Linguagens de Programação  
 <img src="https://skillicons.dev/icons?i=java,typescript,javascript,python,c,cpp&perline=6" />
 
-### ⚙️ Frameworks e Ferramentas  
+### ⚙️ Frameworks & Ferramentas  
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,git,postman,figma,linux,windows&perline=6" />
 
 </td>
@@ -80,16 +80,16 @@ Sou também **Técnico em Informática** formado pelo *IFCE*.
 ---
 
 ## 🧩 Projetos em Destaque
-- 🩺 **MedicalInsights API** — API inteligente desenvolvida em Node.js + TypeScript, integrando modelos de IA para análise de dados médicos  
-- 🤖 **ML Vivencial** — Projeto de Machine Learning em Python com foco em aprendizado supervisionado e não supervisionado (classificação de sinais EMG e clusterização de imagens)
+- 🩺 **MedicalInsights API** — API inteligente desenvolvida com Node.js + TypeScript, integrando modelos de IA para análise de dados médicos  
+- 🤖 **ML Vivencial** — Projeto de Machine Learning em Python, aplicando aprendizado supervisionado e não-supervisionado (classificação de sinais EMG e clusterização)
 
 ---
 
-## 📫 Conecte-se comigo
+## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lucas-farias-1835291b3/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroKeita)
-[![Email](https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolucasfarias300@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF88?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lucas-farias-1835291b3/)
+[![GitHub](https://img.shields.io/badge/GitHub-00FF88?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroKeita)
+[![Email](https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolucasfarias300@gmail.com)
 
 ---
 
@@ -102,5 +102,5 @@ Sou também **Técnico em Informática** formado pelo *IFCE*.
 </table>
 
 <footer>
-  <img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=false&section=footer&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0"/>
+  <img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=90&color=00FF88&section=footer"/>
 </footer>
