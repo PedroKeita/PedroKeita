@@ -96,7 +96,7 @@ Sou também técnico em informática certificado pelo *IFCE*.
 <table align='center'>
   <tr>
     <td>
-      <img src="https://github.com/DevSaLLein/DevSaLLein/blob/output/github-contribution-grid-snake-dark.svg" width="100%" >
+      <img src="https://github.com/PedroKeita/PedroKeita/blob/output/github-contribution-grid-snake-dark.svg" width="100%" >
     </td>
   </tr>
 </table>
