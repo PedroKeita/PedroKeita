@@ -92,15 +92,6 @@ Sou também técnico em informática certificado pelo *IFCE*.
 [![Email](https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolucasfarias300@gmail.com)
 
 ---
-
-<table align='center'>
-  <tr>
-    <td>
-      <img src="https://github.com/PedroKeita/PedroKeita/blob/output/github-contribution-grid-snake-dark.svg" width="100%" >
-    </td>
-  </tr>
-</table>
-
 <footer>
   <img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=90&color=00FF88&section=footer"/>
 </footer>
