@@ -10,11 +10,13 @@
     </td>
   </tr>
 </table>
-
 <h2></h2>
 <header> 
 	<div>
 		<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=45&duration=3000&pause=700&color=00FF88&center=true&vCenter=true&random=false&width=1000&height=85&lines=Hello%2C+World!;Welcome+to+my+GitHub+👋" alt="Typing SVG"/>
+	</div>
+	<div align="center">
+		<img src="./gatitos.gif" width="600"/>
 	</div>
 	<section align='left'>
 		<img src="https://komarev.com/ghpvc/?username=PedroKeita&label=Profile%20views&color=00FF88&style=flat" alt="Profile views" />
@@ -28,12 +30,13 @@
 💻 **Back-End Developer | Java | TypeScript | Node.js**
 
 I'm a 20-year-old developer passionate about building scalable back-end systems and solving real-world problems through software.  
-Currently, I’m pursuing **Software Engineering** at *Jala University* and **Analysis and Systems Development** at *UNIFOR*.  
-I’m also a certified **Computer Technician** by *IFCE*.
+Currently, I'm pursuing **Software Engineering** at *Jala University* and **Analysis and Systems Development** at *UNIFOR*.  
+I'm also a certified **Computer Technician** by *IFCE*.
 
 ---
 
 ### 🚀 About Me
+
 - 💡 I have solid knowledge in **Back-End development**, **Java**, and **software architecture**  
 - 🧠 Experienced with **TypeScript**, **Node.js**, and **Spring Boot**  
 - 🧩 Skilled in **requirement analysis**, **API design**, and **project structuring**  
@@ -46,26 +49,36 @@ I’m also a certified **Computer Technician** by *IFCE*.
 ## 🧠 Tech Stack
 
 <table>
-<tr> 
-<td>
-
-### 💻 Programming Languages  
-<img src="https://skillicons.dev/icons?i=java,typescript,javascript,python,c,cpp&perline=6" />
-
-### ⚙️ Frameworks & Tools  
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,git,postman,figma,linux,windows&perline=6" />
-
-</td>
-<td>
-
-### 🗄️ Databases  
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=6" />
-
-### ☁️ Others  
-<img src="https://skillicons.dev/icons?i=gitlab,docker,vscode,obsidian&perline=6" />
-
-</td>
-</tr>
+  <tr>
+    <td valign="top">
+      <b>🎨 Front-end</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,vue,javascript,typescript&perline=5" />
+    </td>
+    <td valign="top">
+      <b>🗂️ Organization</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=obsidian,notion,md&perline=5" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>⚙️ Back-end</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=java,nodejs,express,spring,python,django,cs,c,cpp&perline=5" />
+    </td>
+    <td valign="top">
+      <b>🚀 DevOps</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,gitlab,git,linux,windows&perline=5" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>🗄️ Database</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=5" />
+    </td>
+    <td valign="top">
+      <b>🛠️ Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=vscode,,idea,rider,clion,postman,figma&perline=5" />
+    </td>
+  </tr>
 </table>
 
 ---
@@ -76,12 +89,6 @@ I’m also a certified **Computer Technician** by *IFCE*.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroKeita&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroKeita&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </div>
-
----
-
-## 🧩 Featured Projects
-- 🩺 **MedicalInsights API** — Intelligent API built with Node.js + TypeScript, integrating AI models for medical data analysis  
-- 🤖 **ML Vivencial** — Machine Learning project in Python focused on supervised and unsupervised learning (EMG signal classification and clustering)
 
 ---
 
