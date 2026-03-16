@@ -76,7 +76,7 @@ I'm also a certified **Computer Technician** by *IFCE*.
     </td>
     <td valign="top">
       <b>🛠️ Tools</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=vscode,,idea,rider,clion,postman,figma&perline=5" />
+      <img src="https://skillicons.dev/icons?i=vscode,idea,rider,clion,postman,figma&perline=5" />
     </td>
   </tr>
 </table>
